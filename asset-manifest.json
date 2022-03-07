@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iadproject/static/css/main.8a251ba3.css",
+    "main.css": "/iadproject/static/css/main.e4816daf.css",
     "main.js": "/iadproject/static/js/main.b89938a9.js",
     "static/js/787.f839603a.chunk.js": "/iadproject/static/js/787.f839603a.chunk.js",
     "static/media/pic.svg": "/iadproject/static/media/pic.79784ea8f807a2bd692a3198abb9f078.svg",
@@ -9,12 +9,12 @@
     "static/media/ftm.svg": "/iadproject/static/media/ftm.3f8c71bb709ec37d4e3bb072c25d75b7.svg",
     "index.html": "/iadproject/index.html",
     "static/media/ethereum.svg": "/iadproject/static/media/ethereum.cf8aa5e7c7ee6fe226057d2329059293.svg",
-    "main.8a251ba3.css.map": "/iadproject/static/css/main.8a251ba3.css.map",
+    "main.e4816daf.css.map": "/iadproject/static/css/main.e4816daf.css.map",
     "main.b89938a9.js.map": "/iadproject/static/js/main.b89938a9.js.map",
     "787.f839603a.chunk.js.map": "/iadproject/static/js/787.f839603a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a251ba3.css",
+    "static/css/main.e4816daf.css",
     "static/js/main.b89938a9.js"
   ]
 }
